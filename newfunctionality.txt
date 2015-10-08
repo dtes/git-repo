@@ -1,0 +1,1 @@
+This is new file which contains description of new functionality 
